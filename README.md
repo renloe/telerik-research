@@ -10,4 +10,7 @@ https://docs.telerik.com/reporting/introduction?_gl=1*kyccsk*_ga*ODE1MTM1MTM0LjE
 ## Interactive Reporting Demos
 https://demos.telerik.com/reporting
 
+## Reporting Learning Resources
+https://docs.telerik.com/reporting/introduction?_ga=2.170704355.213431826.1708960156-815135134.1708960156&_gl=1*1kketw6*_ga*ODE1MTM1MTM0LjE3MDg5NjAxNTY.*_ga_9JSNBCSF54*MTcwODk2MDE1NS4xLjEuMTcwODk2MDQ5Mi41OC4wLjA.*_gcl_au*NzA2MDQ5NDg2LjE3MDg5NjAxNTY.#learning-resources
+
 
