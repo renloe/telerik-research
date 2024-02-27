@@ -1,8 +1,7 @@
 # Telerik Research
 https://www.telerik.com/
 
-## Download DevCraft Trial
-![image](https://github.com/renloe/telerik-research/assets/2071310/8d24a1e8-997d-47e4-96a7-12a4b74d57d4)
+# Training
 
 ## Telerik Reporting Documentation
 https://docs.telerik.com/reporting/introduction?_gl=1*kyccsk*_ga*ODE1MTM1MTM0LjE3MDg5NjAxNTY.*_ga_9JSNBCSF54*MTcwODk2MDE1NS4xLjEuMTcwODk2MDI5OC40NS4wLjA.*_gcl_au*NzA2MDQ5NDg2LjE3MDg5NjAxNTY.&_ga=2.204346963.213431826.1708960156-815135134.1708960156
@@ -31,10 +30,6 @@ RPS Tracker project - version one of the application we will be modifying;\
 RPS sample database - this is the DB used for generating the reports
 ********
 
-## SQL Data Tier Applications Information
-https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver16
-- Could potentially be used to deploy databases in production
-
 ## Interactive Reporting Demos
 https://demos.telerik.com/reporting
 
@@ -47,9 +42,26 @@ https://docs.telerik.com/reporting/introduction?_ga=2.170704355.213431826.170896
 ## Embedding Beautiful Reporting into Angular Applications
 https://www.telerik.com/blogs/embedding-beautiful-reporting-angular-applications
 
+# Installation
+## Download DevCraft Trial
+![image](https://github.com/renloe/telerik-research/assets/2071310/8d24a1e8-997d-47e4-96a7-12a4b74d57d4)
+
+## Reporting Product Downloads
+https://www.telerik.com/account/downloads/product-download?product=REPORTING
+- Reporting MSI Installer
+- NuGet Packages
+
 ## DevCraftUltimateSetup
 - IIS must be setup and running before the Reporting Server can be installed.
-  - You will be repeatedly prompted to restart and run installer again if IIS is not setup
+- You will be repeatedly prompted to restart and run installer again if IIS is not setup
 
 ## Offline Trial Installers
 https://www.telerik.com/offline-trial-download
+
+## SQL Data Tier Applications Information
+https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver16
+- Could potentially be used to deploy databases in production
+
+
+
+
