@@ -31,6 +31,10 @@ RPS Tracker project - version one of the application we will be modifying;\
 RPS sample database - this is the DB used for generating the reports
 ********
 
+## SQL Data Tier Applications Information
+https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver16
+- Could potentially be used to deploy databases in production
+
 ## Interactive Reporting Demos
 https://demos.telerik.com/reporting
 
