@@ -46,3 +46,6 @@ https://www.telerik.com/blogs/embedding-beautiful-reporting-angular-applications
 ## DevCraftUltimateSetup
 - IIS must be setup and running before the Reporting Server can be installed.
   - You will be repeatedly prompted to restart and run installer again if IIS is not setup
+
+## Offline Trial Installers
+https://www.telerik.com/offline-trial-download
