@@ -7,6 +7,10 @@ https://www.telerik.com/
 ## Telerik Reporting Documentation
 https://docs.telerik.com/reporting/introduction?_gl=1*kyccsk*_ga*ODE1MTM1MTM0LjE3MDg5NjAxNTY.*_ga_9JSNBCSF54*MTcwODk2MDE1NS4xLjEuMTcwODk2MDI5OC40NS4wLjA.*_gcl_au*NzA2MDQ5NDg2LjE3MDg5NjAxNTY.&_ga=2.204346963.213431826.1708960156-815135134.1708960156
 
+## Virtual Classroom - Telerik Reporting
+https://learn.telerik.com/pages/16/home-all-classes-by-categories
+- Note: Telerik Reporting is one of the available courses
+
 ## Interactive Reporting Demos
 https://demos.telerik.com/reporting
 
