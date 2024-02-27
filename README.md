@@ -10,6 +10,26 @@ https://docs.telerik.com/reporting/introduction?_gl=1*kyccsk*_ga*ODE1MTM1MTM0LjE
 ## Virtual Classroom - Telerik Reporting
 https://learn.telerik.com/pages/16/home-all-classes-by-categories
 - Note: Telerik Reporting is one of the available courses
+********
+__Course Description__\
+This training course is developed to help you get started with Telerik Reporting set of services and features. It aims to put you in the shoes of a report designer and an engineer that is integrating a reporting solution to an existing application.
+
+In this training we are using ASP.NET Core with Blazor and our job is to add a dynamic report page to a public tracking application that has already been developed. In the course we will design and develop a report using the Telerik Reporting Standalone Report designer. Then, we will incorporate that report into an existing app using the Telerik Report Viewer for Blazor. We will also try different configuration options that come out of the box for Telerik Reporting, like communication between the report server and the web app, as well as hosting the report APIs in the app itself.
+
+What are we learning in this course:
+
+Introduction to Telerik Reporting and the tools to design and preview reports
+Installation and package management
+Design, creation and integration of reports
+Advanced scenarios, like Globalization, Parameters, Exporting, how pass custom UserIdentity object, Rendering and Paging
+Styling - Custom styles, Themes and how to reuse style sheets
+
+
+You will be doing some exercises during the course, so make sure to download the:
+
+RPS Tracker project - version one of the application we will be modifying;\
+RPS sample database - this is the DB used for generating the reports
+********
 
 ## Interactive Reporting Demos
 https://demos.telerik.com/reporting
