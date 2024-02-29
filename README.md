@@ -36,14 +36,17 @@ https://demos.telerik.com/reporting
 ## Video Onboarding For Telerik Reporting
 https://docs.telerik.com/reporting/getting-started/video-onboarding
 
+## Reporting Videos
+https://www.telerik.com/videos/product/reporting
+
 ## Reporting Learning Resources
 https://docs.telerik.com/reporting/introduction?_ga=2.170704355.213431826.1708960156-815135134.1708960156&_gl=1*1kketw6*_ga*ODE1MTM1MTM0LjE3MDg5NjAxNTY.*_ga_9JSNBCSF54*MTcwODk2MDE1NS4xLjEuMTcwODk2MDQ5Mi41OC4wLjA.*_gcl_au*NzA2MDQ5NDg2LjE3MDg5NjAxNTY.#learning-resources
 
-## Embedding Beautiful Reporting into Angular Applications
-https://www.telerik.com/blogs/embedding-beautiful-reporting-angular-applications
 
 # Installation
 ## Download DevCraft Trial
+- Note: When I used this, it did not install the "Examples"
+- I would recommed using the MSI Installer. See link in next section.
 ![image](https://github.com/renloe/telerik-research/assets/2071310/8d24a1e8-997d-47e4-96a7-12a4b74d57d4)
 
 ## Reporting Product Downloads
