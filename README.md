@@ -65,6 +65,15 @@ https://www.telerik.com/offline-trial-download
 https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications?view=sql-server-ver16
 - Could potentially be used to deploy databases in production
 
+# Embedding Report Viewer in Angular
+## Integrating the Angular Report Viewer with Report Server
+https://docs.telerik.com/reporting/embedding-reports/display-reports-in-applications/web-application/angular-report-viewer/how-to-use-angular-report-viewer-with-report-server
+
+## NPM - Progress Telerik Report Viewer component for Angular
+https://www.npmjs.com/package/@progress/telerik-angular-report-viewer
+
+
+
 
 
 
